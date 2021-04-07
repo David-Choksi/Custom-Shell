@@ -1,0 +1,11 @@
+/private/var/folders/80/y6myzh851tb29xjnj038hpf40000gn/T/AppTranslocation/E0A99B2B-60F6-40FF-947B-CDA6438E2A46/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/dawoodchoksi/Desktop/EECS 3221 Operating Systems/Project1"
+-- The C compiler identification is AppleClang 11.0.3.11030032
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/dawoodchoksi/Desktop/EECS 3221 Operating Systems/Project1/cmake-build-debug

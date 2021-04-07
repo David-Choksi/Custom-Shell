@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dawoodchoksi/Desktop/EECS 3221 Operating Systems/Project1/myshell.c
+stdio.h
+-
+unistd.h
+-
+stdbool.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+libc.h
+-
+string.h
+/Users/dawoodchoksi/Desktop/EECS 3221 Operating Systems/Project1/string.h
+
